@@ -1,0 +1,1 @@
+run "vagrant up"
